@@ -13,3 +13,9 @@ And then git push -u origin main that time and after that just use git push (git
 +
 +
 If i do some changes and use git fetch + git merge or git pull only then these will be relflected on my local device 
++
++
+=
+==
+==
+I have finished learning Git and Github . Now time for React
