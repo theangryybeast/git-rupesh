@@ -1,0 +1,11 @@
+Hey Buddy !! I am a new file 
+First do :
+git init
+git add . or git add filename
+git commit -m "Your message"
+git push (if you previously had done git push -u origin main)
+
+Remember : if it is first time do this => git remote add origin "linkFromGithub"
+And do this after commit line
+This needs to be done just first time after that all will be set 
+And then git push -u origin main that time and after that just use git push (git add filename or git add. and then git commit and then this )
